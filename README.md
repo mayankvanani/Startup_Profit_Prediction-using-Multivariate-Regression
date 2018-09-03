@@ -1,7 +1,7 @@
 # Startup_Profit_Prediction_using_Multivariate_Regression
 Given the Dataset _'50_Startups'_  is the dataset of 50 startups in US and its various expenditure on Administration and  Marketing and the location  where the startup is based on.
 
-## OBJECTIVE
+## Objective
 We need to draw out a model that can predict the profitability of any future Startup given the input parameters same as above.
 
 ## Multivariate Regression
