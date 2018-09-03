@@ -16,6 +16,6 @@ We need to draw out a model that can predict the profitability of any future Sta
 Equation of multivariate regression is: <br/>
 **y = b<sub>0</sub>+ b<sub>1</sub>*x<sub>1</sub> + b<sub>2</sub>*x<sub>2</sub> + .... + b<sub>n</sub>*x<sub>n</sub>**. <br/>
 But, the equation of multivariate rergession for **statsmodels** is: <br/>
-**y = b<sub>sub0</sub>*x<sub>0</sub> + b<sub>1</sub>*x<sub>1</sub> + b<sub>2</sub>*x<sub>2</sub> + .... + b<sub>n</sub>*x<sub>n</sub>**. <br/>
+**y = b<sub>0</sub>*x<sub>0</sub> + b<sub>1</sub>*x<sub>1</sub> + b<sub>2</sub>*x<sub>2</sub> + .... + b<sub>n</sub>*x<sub>n</sub>**. <br/>
 
 Here there is **no considereation for constant**. So _x0_ can be made such that x0 = 1. As a result, **b<sub>0</sub>** will behave as constant.
